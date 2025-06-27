@@ -23,9 +23,3 @@ The goal is to assist users — especially medical students or patients—with r
    - A prompt is constructed combining the user's question and the retrieved context.
    - The FLAN-T5 model generates the answer based on this prompt.
 
-# Project Demo
-
-
-https://github.com/user-attachments/assets/d1e7241a-ab36-4ce6-8bac-a0c97a772e61
-
-
